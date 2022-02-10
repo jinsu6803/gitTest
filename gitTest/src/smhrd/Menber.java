@@ -2,5 +2,4 @@ package smhrd;
 
 public class Menber {
 	private int age;
-	private String name;
-}
+	private String Name;
